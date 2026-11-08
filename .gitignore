@@ -14,3 +14,9 @@ credentials/
 reports/generated/
 backups/
 __pycache__/
+*.py[cod]
+.venv/
+
+*.log
+*.tmp
+.DS_Store
